@@ -14,7 +14,7 @@ opt-in to the following experimental features:
 
 - `bench`: use to run benchmarks (`cargo bench --features bench`)
 
-### License
+##### License
 
 Like rustc itself, this code is dual-licensed under the MIT and Apache
 licenses. Pull requests, comments, and other contributions are assumed
